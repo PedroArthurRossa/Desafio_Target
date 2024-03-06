@@ -1,0 +1,7 @@
+Primeiro, ligue o primeiro interruptor e deixe-o ligado por alguns minutos. Isso fará com que a lâmpada correspondente esquente.
+Depois de alguns minutos, desligue o primeiro interruptor e ligue o segundo interruptor.
+Vá até a sala das lâmpadas.
+Toque em cada lâmpada cuidadosamente. A lâmpada que estiver quente (mas apagada) é controlada pelo primeiro interruptor, porque você a deixou ligada por alguns minutos antes de desligá-la.
+A lâmpada que estiver acesa é controlada pelo segundo interruptor, pois você o deixou ligado antes de entrar na sala.
+Por eliminação, a lâmpada que estiver apagada e fria é controlada pelo terceiro interruptor.
+Dessa maneira, usando apenas uma ida à sala das lâmpadas, é possível determinar qual interruptor controla cada lâmpada.
